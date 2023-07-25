@@ -245,8 +245,8 @@ class vars(object):
         keyword = [[
             button()("➕️ Add Me To Your Group ➕️", url=f"https://t.me/{Bot_Username}?startgroup=new")
             ],[
-            button()("Support", url="https://t.me/+sv5flNs7yew1OTk1"),
-            button()("Updates",url="https://t.me/Mo_Tech_YT")
+            button()("Movies", url="https://t.me/Maltexadetv01"),
+            button()("WhatsAppTv",url="https://wa.me/message/ALAAX6XEZ6BWG1")
             ],[
             button()("Help", callback_data="maincb+help_cb"),
             button()("About", callback_data="maincb+about_cb")
