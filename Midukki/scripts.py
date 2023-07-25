@@ -1,7 +1,7 @@
 START_TXT = """
 Hello 👋 {mention} 
 
-I'm MaltexadeTv Princess 👸 I'm  an advanced telegram Group manager created by @maltexade
+I'm MaltexadeTv Princess 👸 I'm an advanced telegram Group manager created by @maltexade
 
 𝑴𝒚 𝒋𝒐𝒃 𝒊𝒔 𝒕𝒐 𝒔𝒆𝒏𝒅 𝒎𝒐𝒗𝒊𝒆 𝒍𝒊𝒏𝒌𝒔 𝒕𝒐 𝑴𝒂𝒍𝒕𝒆𝒙𝒂𝒅𝒆𝑻𝒗'𝒔 𝒈𝒓𝒐𝒖𝒑 𝒂𝒏𝒅 𝑰'𝒎 𝒉𝒆𝒓𝒆 𝒕𝒐 𝒉𝒆𝒍𝒑 𝒚𝒐𝒖 𝒎𝒂𝒏𝒂𝒈𝒆 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑𝒔 𝒂𝒍𝒔𝒐. Hit /help to find out more about how to use me to my full potential..!
 
