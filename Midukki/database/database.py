@@ -87,7 +87,7 @@ class Database:
             'autofilter': True,
             'file_mode': False,
             'poster': True,
-            'spell_check': True,
+            'spell_check': False,
             'welcome': True,
             'protect_files': False,
             'force_sub': Configs.AUTH_CHANNEL,
