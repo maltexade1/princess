@@ -1,11 +1,11 @@
 START_TXT = """
 Hello 👋 {mention} 
 
-I'm <b>{bot}</b> ✨ an advanced telegram Group management
+I'm MaltexadeTv Princess 👸 I'm  an advanced telegram Group manager created by @maltexade
 
-I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
+𝑴𝒚 𝒋𝒐𝒃 𝒊𝒔 𝒕𝒐 𝒔𝒆𝒏𝒅 𝒎𝒐𝒗𝒊𝒆 𝒍𝒊𝒏𝒌𝒔 𝒕𝒐 𝑴𝒂𝒍𝒕𝒆𝒙𝒂𝒅𝒆𝑻𝒗'𝒔 𝒈𝒓𝒐𝒖𝒑 𝒂𝒏𝒅 𝑰'𝒎 𝒉𝒆𝒓𝒆 𝒕𝒐 𝒉𝒆𝒍𝒑 𝒚𝒐𝒖 𝒎𝒂𝒏𝒂𝒈𝒆 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑𝒔 𝒂𝒍𝒔𝒐. Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=http://t.me/maltexadetv01>my creators channel</a></b> to get information on all the latest updates and movies. 
 """
 
 HELP_TXT = """
@@ -16,7 +16,7 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 📚 <u><b>HelpFull Commands</b></u>:
 
 - /start : Starts me! You've probably already used this!.
-- /help : Sends this message; I'll tell you more about models!
+- /help : Sends this message; I'll tell you more about modules!
 - /about : Sends this message; I'll tell you more about myself!
 - /donate : Gives you info on how to support me and my creator!
 
@@ -27,7 +27,7 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
+➾ Developers : Maltexade 
 ➾ Language : Python3
 ➾ Framework : Pyrogram
 ➾ Database : Mongo db
@@ -36,9 +36,7 @@ We are currently developing this bot, using only the Pyrogram library.
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [Maltexade](t.me/maltexade)
 """
 
 STATUS_TXT = """
@@ -64,7 +62,7 @@ STATUS_TXT = """
 AUTO_TXT = """
 **--MODULE OF AUTOFILTER--**
 
-● I Can Provide Files In Your Group, It Very Easy Way Just Add Me Ro Your Group And Make Me Admin In Your Group, Thats All.. I Will Provide Files From Your Group 
+● I Can Provide Files In Your Group, It Very Easy. Just Add Me To Your Group And Make Me Admin In Your Group, Thats All.. I Will Provide Files From Your Group 
       
 🔋 **--Usage & Commands--** :
 
@@ -83,13 +81,13 @@ AUTO_TXT = """
 MANUAL_TXT = """
 **--MODULE OF MANUALFILTER--**
 
-● Filter Is The Feature Were Users Can Set Automated Replies For A Particular Keyword And Bot Will Respond Whenever A Keyword Is Found The Message
+● Filter Is The Feature Where Users Can Set Automated Replies For A Particular Keyword And Bot Will Respond Whenever A Keyword Is Found In The Message
 
 🔋 **--Note--** :
 
 1. This bot should have admin privillage.
-2. only admins can add filters in a chat.
-3. alert buttons have a limit of 64 characters.
+2. Only admins can add filters in a chat.
+3. Alert buttons have a limit of 64 characters.
 
 🔋 **--Commands and Usage--** :
 
@@ -107,7 +105,7 @@ CONNECTION_TXT = """
 
 🔋 **--NOTE--** :
 
-1. Only admins an add a connection.
+1. Only admins can add a connection.
 2. Send <code>/connect</code> for connecting me to ur PM
 
 🔋 **--Commands and Usage--** :
@@ -215,9 +213,7 @@ ADMIN_PANEL = """
 
 FILE_CAPTION_TXT = """{file_name}"""
 
-SPELLCHECK_TXT = """Hey Mr 
-Check Your Spelling 
-"""
+SPELLCHECK_TXT = """ """
 
 IMDB_TEMPLATE_TXT = """
 🙋‍♂️ Hey {mention} Your Requested {query} is ready 👍
@@ -230,7 +226,7 @@ Welcome To {chat} ❣️
 """
 
 SEND_LOGS_A = """
-#BOT_STARTED"""
+Maltexade, Queen Is Alive"""
 
 PURGE_TXT = """
 **--MODULE OF PURGE--** 🗑️
