@@ -52,7 +52,7 @@
         "FORCE_SUB": {
             "description": "ID of channel. Without subscribing this channel users cannot use Autofilter",
             "value": "",
-            "required": false
+            "required": true
         },
         "GITHUB_USERNAME": {
             "description": "Enter Your Github Username Pr0fess0r-99",
@@ -131,7 +131,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Your Support chat url or Your Link [with https:// or https://t.me/] Don't use @",
-            "value": "https://t.me/Mo_Tech_YT",
+            "value": "https://t.me/Maltexadetv01",
             "required": false
         }
     },
