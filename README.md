@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/PR0FESS0R-99/Midukki-RoBoT?style=for-the-badge&logo=appveyor" alt="Stars">
 </p>
 
-The Telegram Bot to manage and protect groups
+The Telegram Bot to manage and protect groups.
 
 Midukki RoBoT simplifies the management, administration and security of your group
 
